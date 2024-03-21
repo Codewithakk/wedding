@@ -1,0 +1,70 @@
+/* HeaderFrame.css */
+
+.navbar {
+  background-color: #fff;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  overflow: auto;
+}
+
+.navbar-brand img {
+  max-height: 40px;
+  padding-right:100px;
+  padding-left: 0%;
+}
+
+.navbar-nav {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-nav .nav-item {
+  margin-right: 1rem; /* Adjust the margin to add space between links */
+}
+
+.navbar-nav .nav-link {
+  color: #333;
+  padding: 0 80px 0 80px;
+  margin-right: 0%;
+  margin-left: 0%;
+  cursor: pointer;
+  justify-content: space-between;
+}
+
+.navbar-toggler {
+  border: none;
+  background: none;
+  cursor: pointer;
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .navbar-nav {
+    display: none;
+    flex-direction: column;
+    padding-top: 1rem;
+  }
+  .navbar-nav.open {
+    display: flex;
+    margin-top: 1rem; /* Add margin top for spacing between links in mobile view */
+  }
+  .navbar-nav .nav-item {
+    margin-right: 0;
+  }
+  .navbar-toggler {
+    display: block;
+  }
+}
+
+.nav-link{
+  float: left;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 25px;
+  width: 16.66667%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+  text-align: center; /* If you want the text to be centered */
+}

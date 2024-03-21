@@ -1,0 +1,503 @@
+.contact-us-for,
+.enquiry {
+  margin: 0;
+}
+
+.frame-with-border input , .phone-number-parent input{
+  border: none;
+}
+input[type="email"] {
+  width: 100%;
+  border: none;
+}
+input [type="text"], textarea {
+  width: 100%;
+  padding: 8px 0 60px 0;
+  
+  font-size: 14px;
+}
+.contact-us-text a{
+  text-decoration: none;
+  color: var(--color-darkslategray);
+  font-weight: bold;
+}
+
+.contact-us-for-container {
+  margin: 0;
+  width: 29.5rem;
+  height: 9.875rem;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-family: inherit;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding-right: var(--padding-xl);
+}
+.contact-us-for-container,
+.lorem-ipsum-dolor12,
+.our-info {
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.lorem-ipsum-dolor12 {
+  width: 31.038rem;
+  height: 6.35rem;
+  line-height: 2.5rem;
+}
+.our-info {
+  margin: 0;
+  height: 2.488rem;
+  font-size: var(--font-size-16xl);
+  text-transform: capitalize;
+  font-weight: 700;
+  font-family: var(--font-playfair-display);
+  color: var(--color-gray-200);
+}
+.at-fill-icon,
+.map-pin-fill-icon,
+.phone-fill-icon {
+  width: 1.613rem;
+  height: 1.325rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.f-r-a-m-e3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.688rem 0;
+}
+.email-text {
+  position: relative;
+  white-space: nowrap;
+}
+.empty-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xs);
+}
+.saurabhsinghphotographygmail {
+  align-self: stretch;
+  position: relative;
+  white-space: nowrap;
+}
+.lucknow-uttar-pradesh {
+  position: relative;
+}
+.contact-us-text,
+.location-text {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.location-text {
+  flex-direction: row;
+  padding: 0 var(--padding-8xs);
+  color: var(--color-darkslategray);
+}
+.contact-us-text {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 1.688rem 0;
+  color: var(--color-gray-200);
+}
+.name-frame,
+.phone-frame {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.name-frame {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1rem 0;
+  min-width: 18.5rem;
+}
+.phone-frame {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+  gap: 0 0.5rem;
+  flex-shrink: 0;
+  font-size: var(--font-size-6xl);
+}
+.f-r-a-m-e2 {
+  align-self: stretch;
+  gap: 2.375rem 0;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-outfit);
+}
+.f-r-a-m-e1,
+.f-r-a-m-e2,
+.frame-c {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.f-r-a-m-e1 {
+  align-self: stretch;
+  gap: 0.375rem 0;
+}
+.frame-c {
+  width: 31.063rem;
+  padding: var(--padding-5xs) 0 0;
+  box-sizing: border-box;
+  min-width: 31.063rem;
+}
+.rectangle-container1,
+.rectangle-container2 {
+  position: absolute;
+  box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 37.669rem;
+  height: 34.5rem;
+}
+.rectangle-container1 {
+  top: 0;
+  left: -0.031rem;
+  border: 3px solid var(--color-black);
+}
+.rectangle-container2 {
+  top: 3.438rem;
+  left: 3.894rem;
+  border: 3px solid var(--color-peru-100);
+  z-index: 1;
+}
+.parent-frame1 {
+  align-self: stretch;
+  height: 37.938rem;
+  position: relative;
+}
+.text-frame-child {
+  width: 37.669rem;
+  height: 34.5rem;
+  position: relative;
+  background-color: var(--color-white);
+  box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.25);
+  display: none;
+  max-width: 100%;
+}
+.contact-us1 {
+  margin: 0;
+  height: 2.488rem;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.contact-us1,
+.line-separator1,
+.name,
+.your-name {
+  position: relative;
+  z-index: 3;
+}
+.line-separator1 {
+  height: 0.125rem;
+  flex: 1;
+  border-top: 2px solid var(--color-black);
+  box-sizing: border-box;
+}
+.frame-with-border,
+.group-with-arrow,
+.text1 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.group-with-arrow {
+  height: 0;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+}
+.frame-with-border,
+.text1 {
+  flex-direction: column;
+}
+.frame-with-border {
+  gap: 0.375rem 0;
+  color: var(--color-gray-100);
+}
+.text1 {
+  gap: 1.188rem 0;
+}
+.email,
+.enter-your-email {
+  position: relative;
+  z-index: 3;
+}
+.enter-your-email {
+  color: var(--color-gray-100);
+}
+.text,
+.text2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.5rem 0;
+}
+.text {
+  flex: 1;
+  gap: 3.125rem 0;
+  min-width: 8.688rem;
+}
+.contact-info-frame,
+.phone-number,
+.your-phone-number {
+  position: relative;
+  z-index: 3;
+}
+.contact-info-frame {
+  height: 0.125rem;
+  flex: 1;
+  border-top: 2px solid var(--color-black);
+  box-sizing: border-box;
+}
+.group-with-arrow1 {
+  align-self: stretch;
+  height: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+}
+.text3 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 0.375rem 0;
+  color: var(--color-gray-100);
+}
+.line-separator,
+.phone-number-parent,
+.text3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.phone-number-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 1.188rem 0;
+  min-width: 8.688rem;
+}
+.line-separator {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 0 1.875rem;
+}
+.line-separator2 {
+  align-self: stretch;
+  height: 0.125rem;
+  position: relative;
+  border-top: 2px solid var(--color-black);
+  box-sizing: border-box;
+  z-index: 3;
+}
+.text-input {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+  gap: 0.375rem 0;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-outfit);
+}
+.empty-frame1,
+.text-bubbles {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.text-bubbles {
+  flex: 1;
+  flex-direction: column;
+  gap: 2.375rem 0;
+}
+.empty-frame1 {
+  width: 28.813rem;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+}
+.message {
+  
+  position: relative;
+  
+  margin-right: 300px;
+  z-index: 3;
+}
+.lorem-text {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+  color: var(--color-gray-100);
+}
+.about-us-text,
+.about-us-text-wrapper,
+.lorem-text {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.about-us-text {
+  flex: 1;
+  flex-direction: column;
+  gap: 2rem 0;
+}
+.about-us-text-wrapper {
+  width: 28.813rem;
+  flex-direction: row;
+  padding: 0 var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-outfit);
+}
+.text-frame {
+  width: 37.688rem;
+  background-color: var(--color-white);
+  box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.25);
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-6xl) var(--padding-6xl) var(--padding-26xl);
+  box-sizing: border-box;
+  gap: 3.188rem 0;
+  z-index: 2;
+  margin-top: -36.437rem;
+}
+.contact-frame2,
+.frame-b,
+.home-services-frame1,
+.text-frame {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.home-services-frame1 {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  min-width: 27.063rem;
+  min-height: 37.938rem;
+  font-size: var(--font-size-16xl);
+}
+.contact-frame2,
+.frame-b {
+  flex-direction: row;
+  align-items: flex-start;
+}
+.frame-b {
+  flex: 1;
+  gap: 0 1.938rem;
+}
+.contact-frame2 {
+  width: 76.75rem;
+  padding: 0 0 0 var(--padding-15xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-36xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-playfair-display);
+}
+@media screen and (max-width: 1000px) {
+  .frame-c {
+    flex: 1;
+  }
+  .frame-b {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 975px) {
+  .contact-us-for-container {
+    font-size: var(--font-size-25xl);
+  }
+  .contact-us1,
+  .our-info {
+    font-size: var(--font-size-9xl);
+  }
+}
+@media screen and (max-width: 725px) {
+  .f-r-a-m-e2 {
+    gap: 2.375rem 0;
+  }
+  .frame-c {
+    min-width: 100%;
+  }
+  .text-frame {
+    gap: 3.188rem 0;
+    padding-bottom: var(--padding-10xl);
+    box-sizing: border-box;
+  }
+  .home-services-frame1 {
+    min-width: 100%;
+  }
+  .frame-b {
+    gap: 0 1.938rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .contact-us-for-container {
+    font-size: var(--font-size-14xl);
+  }
+  .lorem-ipsum-dolor12 {
+    font-size: var(--font-size-base);
+    line-height: 2rem;
+  }
+  .our-info {
+    font-size: var(--font-size-2xl);
+  }
+  .email-text,
+  .lucknow-uttar-pradesh,
+  .saurabhsinghphotographygmail {
+    font-size: var(--font-size-xl);
+  }
+  .phone-frame {
+    flex-wrap: wrap;
+  }
+  .contact-us1 {
+    font-size: var(--font-size-2xl);
+  }
+  .email,
+  .enter-your-email,
+  .name,
+  .phone-number,
+  .your-name,
+  .your-phone-number {
+    font-size: var(--font-size-base);
+  }
+  .line-separator {
+    flex-wrap: wrap;
+  }
+  .text-bubbles {
+    gap: 2.375rem 0;
+  }
+  .message {
+    font-size: var(--font-size-base);
+  }
+  .about-us-text {
+    gap: 2rem 0;
+  }
+}

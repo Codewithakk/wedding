@@ -1,0 +1,282 @@
+.hello-and-welcome {
+  flex: 1;
+  position: relative;
+  line-height: 2.5rem;
+  font-weight: 600;
+}
+.greeting-text {
+  width: 16.875rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xs);
+  box-sizing: border-box;
+}
+.wedding-photgraphy {
+  width: 33.388rem;
+  height: 2.35rem;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 7.763rem;
+  left: 0.206rem;
+  background-color: var(--color-antiquewhite);
+}
+.span {
+  font-size: 4.688rem;
+}
+.plan-your {
+  margin: 0;
+}
+.wedding-photography {
+  margin: 0;
+  color: var(--color-peru-100);
+}
+.with-us {
+  margin: 0;
+}
+.plan-your-wedding-container {
+  align-self: stretch;
+  height: 18.063rem;
+  position: relative;
+  line-height: 5.313rem;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.section-header-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  font-size: var(--font-size-31xl);
+  font-family: var(--font-playfair-display);
+}
+.greeting-text-parent {
+  width: 35.938rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.at-saurabh-singh,
+.capturing-precious-moments {
+  margin: 0;
+}
+.home-content {
+  width: 37.581rem;
+  height: 14.988rem;
+  position: relative;
+  line-height: 2.5rem;
+  color: var(--color-darkslategray);
+  display: inline-block;
+  flex-shrink: 0;
+}
+.title-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.688rem 0;
+  max-width: 100%;
+}
+.contentframe-child {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  right: -0.619rem;
+  bottom: -0.75rem;
+  border-radius: var(--br-xl) 0 var(--br-xl) 0;
+  background-color: var(--color-black);
+}
+.buttonrectangle-child,
+.click-here-for {
+  height: 3.85rem;
+  width: 16.281rem;
+  position: relative;
+  display: none;
+}
+.click-here-for {
+  width: 11.069rem;
+  height: 1.3rem;
+  font-size: var(--font-size-mini);
+  text-transform: uppercase;
+  font-weight: 800;
+  font-family: var(--font-montserrat);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.inquirytext {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 0;
+}
+.arrowvector-child {
+  position: absolute;
+  top: -0.031rem;
+  left: 0.025rem;
+  border-radius: var(--br-xl) 0 var(--br-xl) 0;
+  background-color: var(--color-gray-200);
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.arrowvector-item {
+  position: absolute;
+  top: 1.594rem;
+  left: 0.525rem;
+  width: 1.906rem;
+  height: 1.381rem;
+  z-index: 3;
+}
+.arrowvector {
+  height: 3.188rem;
+  width: 2.938rem;
+  position: relative;
+  border-radius: var(--br-xl) 0 var(--br-xl) 0;
+  background-color: var(--color-gray-200);
+  z-index: 2;
+}
+.buttonrectangle {
+  cursor: pointer;
+  border: 0 solid var(--color-white);
+  padding: var(--padding-8xs) var(--padding-8xs) var(--padding-8xs)
+    var(--padding-10xl);
+  background-color: var(--color-black);
+  gap: 0 0.188rem;
+  z-index: 1;
+}
+.arrow-vector-frame,
+.buttonrectangle,
+.contentframe {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.contentframe {
+  padding: 0 var(--padding-12xs) 0 0;
+  position: relative;
+}
+.arrow-vector-frame {
+  padding: 0 var(--padding-16xl) 0 0;
+}
+.contact-frame,
+.sub-header-frame {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.sub-header-frame {
+  align-items: center;
+  gap: 0.813rem 0;
+}
+.contact-frame {
+  align-items: flex-start;
+  padding-top: 0%;
+  margin-top: 0%;
+  min-width: 37.563rem;
+  min-height:  50.25rem;
+}
+.dsc09607-copy-1 {
+  align-self: stretch;
+  height: 58.938rem;
+  position: relative;
+  border-radius: 6px;
+  left: 250px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+
+.gallery-frame{
+  background-color: rgb(255, 255, 255);
+}
+.copybox,
+.gallery-frame,
+.home {
+  display: flex;
+  justify-content: flex-start;
+}
+.copybox {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+  min-width: 35.563rem;
+  max-width: 100%;
+}
+.gallery-frame,
+.home {
+  align-items: flex-end;
+}
+.gallery-frame {
+  width: 105.563rem;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-xl);
+  box-sizing: border-box;
+  row-gap: 20px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-outfit);
+}
+.home {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .contact-frame {
+    flex: 1;
+    min-height: auto;
+  }
+  .gallery-frame {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .plan-your-wedding-container {
+    font-size: var(--font-size-21xl);
+    line-height: 4.25rem;
+  }
+}
+@media screen and (max-width: 750px) {
+  .contact-frame,
+  .copybox {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .hello-and-welcome {
+    font-size: var(--font-size-base);
+    line-height: 2rem;
+  }
+  .plan-your-wedding-container {
+    font-size: var(--font-size-11xl);
+    line-height: 3.188rem;
+  }
+  .home-content {
+    font-size: var(--font-size-base);
+    line-height: 2rem;
+  }
+}

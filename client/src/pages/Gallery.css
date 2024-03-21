@@ -1,0 +1,476 @@
+
+
+
+.gallery-child,
+.gallery-child1,
+.gallery-child2,
+.gallery-inner,
+.gallery-item {
+  width: 23.75rem;
+  height: 3.9rem;
+  position: relative;
+  background-color: var(--color-white);
+  display: none;
+  max-width: 100%;
+}
+.our-recent-work {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-family: inherit;
+}
+.floral-design-icon {
+  width: 3.875rem;
+  height: 2.844rem;
+  position: absolute;
+  margin: 0 !important;
+  top: 0.013rem;
+  left: 28rem;
+  object-fit: cover;
+}
+.f-r-a-m-e,
+.f-r-a-m-e-wrapper {
+  display: flex;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.f-r-a-m-e {
+  width: 65.375rem;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-31xl) 0 0;
+  box-sizing: border-box;
+  position: relative;
+}
+.f-r-a-m-e-wrapper {
+  width: 68.563rem;
+  flex-direction: row;
+  align-items: flex-start;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-36xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-playfair-display);
+}
+.frame-child1,
+.mask-group-icon {
+  align-self: stretch;
+  position: relative;
+  object-fit: cover;
+}
+.mask-group-icon {
+  height: 20.8rem;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.frame-child1 {
+  height: 3.9rem;
+  background-color: var(--color-white);
+  display: none;
+}
+.gallery-wedding-1 {
+  height: 1.188rem;
+  position: relative;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.frame-group-child {
+  width: 1.694rem;
+  height: 1.381rem;
+  position: absolute;
+  margin: 0 !important;
+  right: 1.556rem;
+  bottom: -1.375rem;
+  z-index: 1;
+}
+.frame-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-base);
+  position: relative;
+}
+.see-more1 {
+  position: relative;
+  text-decoration: underline;
+  text-transform: uppercase;
+  z-index: 1;
+}
+.group-div,
+.mask-groups {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.mask-groups {
+  height: 0.938rem;
+  flex-direction: row;
+  padding: 0 var(--padding-mini);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-base);
+  font-family: var(--font-montserrat);
+}
+.group-div {
+  align-self: stretch;
+  flex-direction: column;
+  padding: var(--padding-10xs) 0 var(--padding-5xs);
+  gap: var(--gap-11xs);
+}
+.mask-group-icon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.group {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 1.938rem 0;
+}
+.frame-gallery-arrow,
+.group,
+.mask-group-parent {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-gallery-arrow {
+  align-self: stretch;
+  height: 16.875rem;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+}
+.mask-group-parent {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.063rem 0;
+  min-width: 15.625rem;
+}
+.mask-group-icon2 {
+  height: 11.019rem;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.mask-group-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-6xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.gallery-wedding-2 {
+  height: 1.188rem;
+  position: relative;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.arrow-child {
+  width: 1.694rem;
+  height: 1.381rem;
+  position: absolute;
+  margin: 0 !important;
+  right: 1.619rem;
+  bottom: -1.412rem;
+  z-index: 1;
+}
+.arrow {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-base);
+  position: relative;
+}
+.see-more2 {
+  position: relative;
+  text-decoration: underline;
+  text-transform: uppercase;
+  z-index: 1;
+}
+.arrow-frame-gallery{
+  padding-left: 20%;
+}
+.gallery-wedding-arrow,
+.more-arrows {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.more-arrows {
+  height: 0.938rem;
+  flex-direction: row;
+  padding: 0 var(--padding-base);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-base);
+  font-family: var(--font-montserrat);
+}
+.gallery-wedding-arrow {
+  flex-direction: column;
+  gap: 0.063rem 0;
+}
+.frame-div,
+.mask-group-icon3 {
+  align-self: stretch;
+  max-width: 100%;
+  object-fit: cover;
+}
+.frame-div {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.25rem 0;
+}
+.mask-group-icon3 {
+  height: 20.8rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.frame-container,
+.individual-frame2 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-container {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  gap: 2.438rem 0;
+  min-width: 15.625rem;
+}
+.individual-frame2 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 0 1.688rem;
+}
+.gallery-wedding-4 {
+  height: 1.188rem;
+  position: relative;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.unused-child {
+  width: 1.694rem;
+  height: 1.381rem;
+  position: absolute;
+  margin: 0 !important;
+  right: 1.619rem;
+  bottom: -1.369rem;
+  z-index: 1;
+}
+.unused {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-base);
+  position: relative;
+}
+.gallery-wedding-5 {
+  height: 1.188rem;
+  position: relative;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.unused-item {
+  width: 1.694rem;
+  height: 1.381rem;
+  position: absolute;
+  margin: 0 !important;
+  right: 1.556rem;
+  bottom: -1.369rem;
+  z-index: 1;
+}
+.unused1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-base);
+  position: relative;
+}
+.arrow-frame-gallery,
+.individual-frame1 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.arrow-frame-gallery {
+  width: 35.875rem;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.individual-frame1 {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 0.188rem 0;
+}
+.see-more3{
+  margin-left: 39%;
+}
+.see-more4{
+  left:6%
+}
+.see-more3,
+.see-more4 {
+  position: relative;
+  text-decoration: underline;
+  text-transform: uppercase;
+  z-index: 1;
+  
+}
+.seemoreseemore-frame {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  
+}
+.individual-frame,
+.seemore-frame,
+.seemoreseemore-frame {
+  align-items: flex-start;
+  max-width: 100%;
+}
+.seemore-frame {
+  width:  47.25rem ;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mid);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-base);
+  font-family: var(--font-montserrat);
+}
+.individual-frame {
+  flex: 1;
+  flex-direction: column;
+  gap: 0.125rem 0;
+}
+.gallery,
+.individual-frame,
+.individual-frame-parent {
+  display: flex;
+  justify-content: flex-start;
+}
+.individual-frame-parent {
+  width: 145.313rem;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 0 1.438rem;
+  max-width: 100%;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-playfair-display);
+}
+.gallery {
+  width: 100%;
+  padding-right:0%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: 3.625rem var(--padding-xl) var(--padding-31xl) 2.875rem;
+  box-sizing: border-box;
+  gap: 6.688rem 0;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .gallery {
+    padding-left: 1.438rem;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .our-recent-work {
+    font-size: var(--font-size-25xl);
+  }
+  .individual-frame-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .individual-frame2 {
+    flex-wrap: wrap;
+  }
+  .individual-frame {
+    min-width: 100%;
+  }
+  .gallery {
+    gap: 6.688rem 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .our-recent-work {
+    font-size: var(--font-size-14xl);
+  }
+  .gallery-wedding-1 {
+    font-size: var(--font-size-base);
+  }
+  .group {
+    gap: 1.938rem 0;
+  }
+  .gallery-wedding-2 {
+    font-size: var(--font-size-base);
+  }
+  .frame-container {
+    gap: 2.438rem 0;
+  }
+  .gallery-wedding-4,
+  .gallery-wedding-5 {
+    font-size: var(--font-size-base);
+  }
+  .arrow-frame-gallery,
+  .seemoreseemore-frame {
+    flex-wrap: wrap;
+  }
+  .gallery {
+    gap: 6.688rem 0;
+  }
+}

@@ -1,0 +1,246 @@
+.statistic-child {
+  position: absolute;
+  top: 0;
+  left: 0%;
+  background-color: var(--color-antiquewhite);
+  width: 120.25rem;
+  height: 64rem;
+}
+.mask-group-icon6 {
+  position: absolute;
+  top: 2.45rem;
+  left: 28rem;
+  width: 62.256rem;
+  height: 58.381rem;
+  object-fit: contain;
+}
+.statistic-child1,
+.statistic-child2,
+.statistic-inner,
+.statistic-item {
+  position: absolute;
+  top: 11.244rem;
+  left: 5.813rem;
+  border: 5px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 30.625rem;
+  height: 33.556rem;
+}
+.statistic-child1,
+.statistic-child2,
+.statistic-inner {
+  top: 8.238rem;
+  left: 8.938rem;
+  border: 5px solid var(--color-peru-100);
+}
+.statistic-child1,
+.statistic-child2 {
+  top: 27.825rem;
+  left: 16.438rem;
+  border: 5px solid var(--color-gray-200);
+  width: 21.875rem;
+  height: 24.206rem;
+}
+.statistic-child2 {
+  top: 25.375rem;
+  left: 19.063rem;
+  border: 5px solid var(--color-peru-100);
+}
+.lorem-ipsum-dolor11 {
+  position: absolute;
+  top: 26.713rem;
+  left: 45.938rem;
+  font-size: var(--font-size-xl);
+  line-height: 2.5rem;
+  color: var(--color-darkslategray);
+  display: inline-block;
+  width: 30.125rem;
+  height: 4.45rem;
+}
+.we-dedicated-to {
+  position: absolute;
+  top: 11.406rem;
+  left: calc(50% + 13.95px);
+  text-transform: capitalize;
+  display: inline-block;
+  font-family: var(--font-playfair-display);
+  color: var(--color-gray-200);
+  width: 36.375rem;
+  height: 12.188rem;
+}
+.statistic-child3 {
+  position: absolute;
+  top: 9.794rem;
+  left: 7.563rem;
+  background-color: #d9d9d9;
+  width: 30.125rem;
+  height: 33.338rem;
+}
+.statistic-child4,
+.statistic-child5,
+.statistic-child6 {
+  position: absolute;
+  top: 34.506rem;
+  left: 45.938rem;
+  background-color: var(--color-white);
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.25);
+  width: 10.938rem;
+  height: 9.794rem;
+}
+.statistic-child5,
+.statistic-child6 {
+  left: 58.75rem;
+}
+.statistic-child6 {
+  left: 71.563rem;
+}
+.b,
+.locations {
+  position: absolute;
+  line-height: 2.5rem;
+}
+.b {
+  top: 0;
+  left: 0;
+  white-space: pre-wrap;
+}
+.locations {
+  top: 3.213rem;
+  left: 1.25rem;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray);
+  display: inline-block;
+  width: 5.375rem;
+  height: 2.225rem;
+}
+.parent {
+  position: absolute;
+  top: 36.688rem;
+  left: 73.063rem;
+  width: 7.5rem;
+  height: 5.444rem;
+}
+.b1,
+.events {
+  line-height: 2.5rem;
+  display: inline-block;
+}
+.b1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 7.5rem;
+  height: 2.938rem;
+}
+.events {
+  top: 3.213rem;
+  left: 0.625rem;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray);
+  text-align: center;
+  width: 6.25rem;
+  height: 2.225rem;
+}
+.b2,
+.container,
+.events {
+  position: absolute;
+}
+.container {
+  top: 36.688rem;
+  left: 60.438rem;
+  width: 7.5rem;
+  height: 5.444rem;
+}
+.b2 {
+  top: 0;
+  left: 0.688rem;
+  line-height: 2.5rem;
+  display: inline-block;
+  width: 8.125rem;
+  height: 2.35rem;
+}
+.parent1,
+.weddings {
+  position: absolute;
+  width: 8.938rem;
+}
+.weddings {
+  top: 2.719rem;
+  left: 0;
+  font-size: var(--font-size-xl);
+  line-height: 2.5rem;
+  color: var(--color-darkslategray);
+  white-space: pre-wrap;
+  display: inline-block;
+  height: 2.35rem;
+}
+.parent1 {
+  top: 37.063rem;
+  left: 46.938rem;
+  height: 5.069rem;
+}
+.mask-group-icon7 {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0.313rem;
+  top: 0.313rem;
+  transform: scale(1.083);
+}
+.wrapper-mask-group2 {
+  position: absolute;
+  top: 9.794rem;
+  left: 7.563rem;
+  width: 30.125rem;
+  height: 33.338rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.mask-group-icon8 {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0.313rem;
+  top: 0.313rem;
+  transform: scale(1.114);
+}
+.wrapper-mask-group3 {
+  position: absolute;
+  top: 26.713rem;
+  left: 17.688rem;
+  width: 21.875rem;
+  height: 24.206rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bouquet-icon {
+  position: absolute;
+  top: 7.238rem;
+  left: 45.938rem;
+  width: 4.063rem;
+  height: 3.619rem;
+  object-fit: cover;
+}
+.statistic1 {
+  position: absolute;
+  top: 0;
+  left:15rem;
+  width: 90.256rem;
+  height: 64rem;
+}
+.statistic {
+  /* width: 100%; */
+  position: relative;
+  background-color: rgb(189, 171, 136);
+  height: 64rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-36xl);
+  color: var(--color-peru-100);
+  font-family: var(--font-outfit);
+}

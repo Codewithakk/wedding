@@ -1,0 +1,24 @@
+.contact {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 6.938rem 0 var(--padding-mini);
+  box-sizing: border-box;
+  gap: 4.375rem 0;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 975px) {
+  .contact {
+    gap: 4.375rem 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .contact {
+    gap: 4.375rem 0;
+  }
+}

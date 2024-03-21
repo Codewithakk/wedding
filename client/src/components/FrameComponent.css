@@ -1,0 +1,486 @@
+
+.nav-link {
+  text-decoration: none; /* Remove underline */
+}
+
+.wedding-ring-1-icon {
+  height: 2.431rem;
+  width: 3.838rem;
+  position: absolute;
+  margin: 0 !important;
+  right: 2.719rem;
+  bottom: 0.688rem;
+  object-fit: cover;
+}
+
+.l-ve {
+  color: var(--color-peru-100);
+  white-space: pre-wrap;
+}
+.truel-ve {
+  margin: 0;
+  height: 4.625rem;
+  width: 14.563rem;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  filter: drop-shadow(2px 2px 1px #e3c3a2);
+  z-index: 1;
+}
+.social-media-frames {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.facebook-app-symbol {
+  width: 1.55rem;
+  height: 1.594rem;
+  position: relative;
+  object-fit: cover;
+}
+.frame-services-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-6xs) 0 0;
+}
+.instagram-icon {
+  width: 2.631rem;
+  height: 1.075rem;
+  position: relative;
+  object-fit: cover;
+}
+.service-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) var(--padding-3xl) 0 0;
+}
+.twitter-icon,
+.youtube-icon {
+  height: 1.075rem;
+  width: 2.631rem;
+  position: relative;
+  object-fit: cover;
+}
+.instagram-frame {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: var(--gap-xl);
+}
+.social-media-icons,
+.wedding-ring-rectangle {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.social-media-icons {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-12xs) 0 var(--padding-8xs);
+}
+.wedding-ring-rectangle {
+  width: 17.875rem;
+  flex-direction: column;
+  gap: 2.563rem 0;
+}
+.menu {
+  width: 4.963rem;
+  height: 1.013rem;
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.home2 {
+  width: 4.063rem;
+}
+.about-us2,
+.contact2,
+.gallery2,
+.home2,
+.services1 {
+  height: 0.769rem;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.about-us2 {
+  align-self: stretch;
+}
+.contact2,
+.gallery2,
+.services1 {
+  width: 5.563rem;
+}
+.contact2,
+.gallery2 {
+  width: 4.888rem;
+}
+.contact2 {
+  width: 5.413rem;
+}
+.frame-links {
+  align-self: stretch;
+  gap: 0.438rem 0;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-outfit);
+}
+.copyright-message,
+.frame-links,
+.social-media-logos {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.social-media-logos {
+  align-self: stretch;
+  gap: 0.938rem 0;
+}
+.copyright-message {
+  width: 5.875rem;
+  padding: 0 0 var(--padding-7xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-playfair-display);
+}
+.true-l-event,
+.true-l-event-wrapper {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.true-l-event {
+  width: 34.25rem;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 0 0 0 var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+}
+.true-l-event-wrapper {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.copyright-2024 {
+  width: 32.931rem;
+  height: 0.981rem;
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-weight: 800;
+  font-family: var(--font-outfit);
+  color: var(--color-darkslategray);
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.frame-parent2 {
+  width: 35.938rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.563rem 0;
+  min-width: 35.938rem;
+  max-width: 100%;
+}
+.services2 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+}
+.wedding-photography-label {
+  width: 7.438rem;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-playfair-display);
+}
+.service2,
+.wedding-photography1 {
+  position: relative;
+  display: inline-block;
+}
+.wedding-photography1 {
+  height: 0.744rem;
+  flex-shrink: 0;
+}
+.service2 {
+  height: 0.769rem;
+  flex: 1;
+}
+.wedding-photography-label1 {
+  width: 7.438rem;
+  height: 0.75rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-6xl) 0 0;
+  box-sizing: border-box;
+}
+.service21 {
+  height: 0.769rem;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.wedding-photography-label2 {
+  width: 7.438rem;
+  height: 0.75rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-lg) 0 0;
+  box-sizing: border-box;
+}
+
+/* FrameComponent.css */
+.mask-group-frame {
+  padding: 1rem; /* Add padding for better spacing */
+}
+
+/* Adjust styles for navigation links */
+.nav-link {
+  text-decoration: none; /* Remove underline */
+  display: flex;
+  align-items: center; /* Align icon and text vertically */
+  gap: 0.5rem; /* Add space between icon and text */
+  color: #333; /* Change link color */
+}
+
+.nav-link img {
+  width: 2rem; /* Adjust icon size */
+  height: auto;
+}
+
+/* Add hover effect for navigation links */
+.nav-link:hover {
+  color: #007bff; /* Change link color on hover */
+}
+
+/* Add space between individual service links */
+.services-box a {
+  display: block;
+  margin-bottom: 1rem; /* Adjust as needed */
+  text-decoration: none;
+  color: #333; /* Change link color */
+}
+
+.menu-frame{
+  margin-bottom: 100px;
+  display: flex;
+}
+
+.services-box a:hover {
+  color: #007bff; /* Change link color on hover */
+}
+
+/* Update styles for social media icons */
+.social-media-icons {
+  display: flex;
+  align-items: center;
+  gap: 1rem; /* Add space between icons */
+}
+
+/* Adjust styles for menu links */
+.frame-links {
+  display: flex;
+  gap: 2rem; /* Add space between menu links */
+}
+
+.frame-links a {
+  text-decoration: none;
+  color: #333; /* Change link color */
+}
+
+.frame-links a:hover {
+  color: #007bff; /* Change link color on hover */
+}
+
+/* Update styles for copyright message */
+.copyright-message {
+  margin-top: 2rem; /* Add space between social media icons and copyright */
+}
+
+/* Adjust styles for services box */
+.services-box {
+  margin-top: 2rem; /* Add space between menu frame and services box */
+}
+
+/* Add space between individual services */
+.services-box a {
+  display: block;
+  margin-bottom: 1rem;
+  text-decoration: none;
+  color: #333; /* Change link color */
+}
+
+.services-box a:hover {
+  color: #007bff; /* Change link color on hover */
+}
+
+/* Adjust styles for iframe */
+iframe {
+  margin-top: 0rem; /* Add space between divider line and iframe */
+}
+
+.menu-frame,
+.services-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.services-box {
+  flex: 1;
+  align-items: center;
+  gap: 0.260rem 0;
+}
+.menu-frame {
+  height: 7.188rem;
+  align-items: flex-start;
+  padding: var(--padding-xs) var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  min-width: 13.188rem;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-outfit);
+}
+.contact-info-frame1,
+.frame-parent1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent1 {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.contact-info-frame1 {
+  width: 57.563rem;
+  justify-content: flex-start;
+  padding: 0 var(--padding-sm);
+  box-sizing: border-box;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-46xl);
+  color: var(--color-black);
+  font-family: var(--font-dancing-script);
+}
+.divider-line {
+  align-self: stretch;
+  height: 0.188rem;
+  position: relative;
+  border-top: 3px solid var(--color-silver-100);
+  box-sizing: border-box;
+}
+.frame-root {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1rem 0;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.mask-group-icon11 {
+  height: 13.825rem;
+  width: 32.5rem;
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  z-index: 1;
+  margin-left: -32.875rem;
+}
+.mask-group-frame {
+  margin-left: 0.375rem;
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+@media screen and (max-width: 975px) {
+  .truel-ve {
+    font-size: var(--font-size-33xl);
+  }
+  .frame-parent2,
+  .true-l-event {
+    flex: 1;
+  }
+  .menu-frame {
+    flex: 1;
+    padding-right: 0;
+    box-sizing: border-box;
+  }
+  .frame-parent1 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 725px) {
+  .frame-parent2 {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .truel-ve {
+    font-size: var(--font-size-20xl);
+  }
+  .wedding-ring-rectangle {
+    gap: 2.563rem 0;
+  }
+  .menu {
+    font-size: var(--font-size-xl);
+  }
+  .about-us2,
+  .contact2,
+  .gallery2,
+  .home2,
+  .services1 {
+    font-size: var(--font-size-base);
+  }
+  .true-l-event {
+    flex-wrap: wrap;
+  }
+  .copyright-2024 {
+    font-size: var(--font-size-base);
+  }
+  .services2 {
+    font-size: var(--font-size-xl);
+  }
+  .service2,
+  .service21,
+  .wedding-photography1 {
+    font-size: var(--font-size-base);
+  }
+}
