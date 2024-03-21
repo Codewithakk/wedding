@@ -1,5 +1,5 @@
 const mongoose=require("mongoose");
-const URI=`enter your mongodb url`;
+const URI=process.env.URI;
 
 const connectDb = async () => {
     try {
